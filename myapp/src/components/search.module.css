@@ -1,0 +1,15 @@
+input[type=search]{
+    padding:10px;
+    width:15rem;
+    border-radius:12px;
+}
+input[type=search]:focus{
+    background-color:bisque;
+    border:2px solid black;
+}
+::placeholder{
+    font-size:14px;
+}
+.inputdivStyle{
+    text-align:center;
+}

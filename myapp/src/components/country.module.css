@@ -1,0 +1,31 @@
+.country{
+    background-color:#0c1912;
+    color:white;
+    padding:12% 3%;
+    text-align:center;
+    border-radius:12px;
+    transition:.4s linear;
+    cursor:pointer;
+    box-shadow:1px 2px 3px #cecece;
+}
+.country:hover{
+    transform:scale(1.1);
+}
+article img{
+    width:60%;
+}
+article h4{
+    padding-top:12px;
+}
+.btn{
+    border:none;
+    padding:10px;
+    margin-top:1rem;
+    border-radius:12px;
+    background-color:orange;
+    cursor: pointer;
+    transition:.4s all;
+}
+.btn:hover{
+    background-color:#ffd159;
+}
